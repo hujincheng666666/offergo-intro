@@ -1,2 +1,2 @@
 # OfferGo - AI 面试助手
-[OfferGo](https://offergo.site) 是一款 AI 面试辅助工具，支持实时语音识别、双屏互联、投屏隐身。
+[OfferGo](https://offergo.site) 是一款 AI 面试辅助工具，支持实时语音识别、双屏互联、投屏隐身。上传简历和知识库，AI 自动匹配面试问题并生成个性化回答，已帮助 10,000+ 用户提升面试通过率。
