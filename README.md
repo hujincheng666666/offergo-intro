@@ -1,4 +1,4 @@
-# OfferGo - AI 面试助手
+# OfferGo 快来面- AI 面试助手
 
 [OfferGo](https://offergo.site) 是一款 AI 面试辅助工具，专注帮助求职者在面试中更好地展示自己。
 
